@@ -1,0 +1,135 @@
+{
+    "author": "Pansmith",
+    "files": [
+        {
+            "alias": "Gregicality",
+            "fileID": 3542805,
+            "projectID": 364851,
+            "required": true
+        },
+        {
+            "alias": "GTCE",
+            "fileID": 3478805,
+            "projectID": 293327,
+            "required": true
+        },
+        {
+            "alias": "CodeChicken Lib",
+            "fileID": 2779848,
+            "projectID": 242818,
+            "required": true
+        },
+        {
+            "alias": "ConnectedTexturesMod",
+            "fileID": 2915363,
+            "projectID": 267602,
+            "required": true
+        },
+        {
+            "alias": "NEI but for 1.12",
+            "fileID": 3043174,
+            "projectID": 238222,
+            "required": true
+        },
+        {
+            "alias": "Opencomputers",
+            "fileID": 2828357,
+            "projectID": 223008,
+            "required": true
+        },
+        {
+            "alias": "ProjectE",
+            "fileID": 2702991,
+            "projectID": 226410,
+            "required": true
+        },
+        {
+            "alias": "QMD",
+            "fileID": 3493623,
+            "projectID": 362056,
+            "required": true
+        },
+        {
+            "alias": "NC (required for QMD)",
+            "fileID": 3386487,
+            "projectID": 336895,
+            "required": true
+        },
+        {
+            "alias": "Better Questing",
+            "fileID": 2950248,
+            "projectID": 238856,
+            "required": true
+        },
+        {
+            "alias": "mystic spy",
+            "fileID": 3484653,
+            "projectID": 533862,
+            "required": true
+        },
+        {
+            "alias": "Not Just Another Ruby Mod 2",
+            "fileID": 3208909,
+            "projectID": 421391,
+            "required": true
+        },
+        {
+            "alias": "Crafttweaker",
+            "fileID": 3556435,
+            "projectID": 239197,
+            "required": true
+        },
+        {
+            "alias": "is a mod by greg",
+            "fileID": 2595310,
+            "projectID": 238372,
+            "required": true
+        },
+        {
+            "alias": "Luckyblocks replacement (Chance Cubes)",
+            "fileID": 30876110,
+            "projectID": 233113,
+            "required": true
+	    },
+		{
+            "alias": "Extended Crafting: Good verison",
+            "fileID": 3501608,
+            "projectID": 231382,
+            "required": true
+        },
+		{
+            "alias": "Cucumber Library",
+            "fileID": 3561215,
+            "projectID": 272335,
+            "required": true
+        },
+		{
+            "alias": "Avaritia",
+            "fileID": 3143349,
+            "projectID": 261348,
+            "required": true
+        },
+        {
+            "alias": "Draconic Evolution",
+            "fileID": 3431261,
+            "projectID": 223565,
+            "required": true
+        },
+        {
+            "alias": "Redstone Flux",
+            "fileID": 2920436,
+            "projectID": 270789,
+            "required": true
+        },
+        {
+            "alias": "Brandon's Core",
+            "fileID": 3408276,
+            "projectID": 231382,
+            "required": true
+        },
+        {
+            "alias": "New fluids",
+            "fileID": 3340981,
+            "projectID": 491406,
+            "required": true
+        },
