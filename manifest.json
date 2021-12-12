@@ -62,18 +62,6 @@
             "required": true
         },
         {
-            "alias": "mystic spy",
-            "fileID": 3484653,
-            "projectID": 533862,
-            "required": true
-        },
-        {
-            "alias": "Not Just Another Ruby Mod 2",
-            "fileID": 3208909,
-            "projectID": 421391,
-            "required": true
-        },
-        {
             "alias": "Crafttweaker",
             "fileID": 3523955,
             "projectID": 239197,
@@ -131,6 +119,138 @@
             "alias": "New fluids",
             "fileID": 3340981,
             "projectID": 491406,
+            "required": true
+        },
+        {
+            "alias": "AcademyCraft",
+            "fileID": 3005254,
+            "projectID": 236188,
+            "required": true
+        },
+        {
+            "alias": "ExtraAcademy",
+            "fileID": 3510156,
+            "projectID": 534363,
+            "required": true
+        },
+        {
+            "alias": "E-Vaporate",
+            "fileID": 2573014,
+            "projectID": 286570,
+            "required": true
+        },
+        {
+            "alias": "Bibliotheca",
+            "fileID": 2661470,
+            "projectID": 268210,
+            "required": true
+        },
+        {
+            "alias": "ContentTweaker",
+            "fileID": 3331364,
+            "projectID": 237065,
+            "required": true
+        },
+        {
+            "alias": "BASE",
+            "fileID": 3440963,
+            "projectID": 246996,
+            "required": true
+        },
+        {
+            "alias": "ModTweaker",
+            "fileID": 3488553,
+            "projectID": 220954,
+            "required": true
+        },
+        {
+            "alias": "BiomeTweaker",
+            "fileID": 3112142,
+            "projectID": 228895,
+            "required": true
+        },
+        {
+            "alias": "mtlib",
+            "fileID": 3308160,
+            "projectID": 253211,
+            "required": true
+        },
+        {
+            "alias": "BiomeTweakerCore",
+            "fileID": 2527645,
+            "projectID": 270116,
+            "required": true
+        },
+        {
+            "alias": "CoFH World",
+            "fileID": 2920434,
+            "projectID": 271384,
+            "required": true
+        },
+        {
+            "alias": "The Abdera Science Mod",
+            "fileID": 2746339,
+            "projectID": 331748,
+            "required": true
+        },
+        {
+            "alias": "Rats",
+            "fileID": 3028671,
+            "projectID": 323596,
+            "required": true
+        },
+        {
+            "alias": "LLibrary",
+            "fileID": 3116493,
+            "projectID": 243298,
+            "required": true
+        },
+        {
+            "alias": "ProjectEX",
+            "fileID": 3014173,
+            "projectID": 311378,
+            "required": true
+        },
+        {
+            "alias": "BorealisExpansion",
+            "fileID": 3511333,
+            "projectID": 531509,
+            "required": true
+        },
+        {
+            "alias": "Thaumic Potatoes 2",
+            "fileID": 2488941,
+            "projectID": 270721,
+            "required": true
+        },
+        {
+            "alias": "Guide-API",
+            "fileID": 2645992,
+            "projectID": 228832,
+            "required": true
+        },
+        {
+            "alias": "Piss mod",
+            "fileID": 2941017,
+            "projectID": 378901,
+            "required": true
+        },
+        {
+            "alias": "Modular Forcefield System",
+            "fileID": 2581227,
+            "projectID": 59882,
+            "required": true
+        },
+        {
+            "alias": "KFC Experimental",
+            "fileID": 3231695,
+            "projectID": 382933,
+            "required": true
+        },
+        {
+            "alias": "Nether Chest",
+            "fileID": 2655413,
+            "projectID": 268888,
             "required": true
         }
     ],
