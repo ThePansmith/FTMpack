@@ -1,0 +1,37 @@
+name: Build Latest
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: "Setup NodeJS v13"
+        uses: actions/setup-node@v2
+        with:
+          node-version: "13"
+          check-latest: true
+          
+      - name: "Download NPM packages"
+        working-directory: ./buildtools
+        run: npm ci
+        
+      - name: "Make artifact names"
+        id: artifactNames
+        working-directory: ./buildtools
+        run: npx gulp makeArtifactNames
+      
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v2.2.4
+        with:
+          name: ${{ steps.artifactNames.outputs.client }}
+          path: |
+            ./overrides
+            ./modlist.html
+            ./manifest.json
