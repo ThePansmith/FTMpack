@@ -73,3 +73,6 @@ eula.txt
 banned-players.json
 banned-ips.json
 ChangelogGenerator.jar
+
+# Misc
+*.bak

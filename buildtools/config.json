@@ -1,0 +1,14 @@
+
+{
+	"copyOverridesServerGlobs": [
+		"config/**/*",
+		"mods/**/*",
+		"scripts/**/*"
+	],
+	"copyOverridesClientGlobs": [
+		"",
+		""
+	],
+	"nightlyHookAvatar": "",
+	"nightlyHookName": ""
+}

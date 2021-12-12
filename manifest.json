@@ -50,7 +50,7 @@
             "required": true
         },
         {
-            "alias": "NC (required for QMD)",
+            "alias": "NC required for QMD",
             "fileID": 3386487,
             "projectID": 336895,
             "required": true
@@ -75,7 +75,7 @@
         },
         {
             "alias": "Crafttweaker",
-            "fileID": 3556435,
+            "fileID": 3523955,
             "projectID": 239197,
             "required": true
         },
@@ -86,20 +86,20 @@
             "required": true
         },
         {
-            "alias": "Luckyblocks replacement (Chance Cubes)",
-            "fileID": 30876110,
+            "alias": "Luckyblocks replacement: Chance Cubes",
+            "fileID": 3087611,
             "projectID": 233113,
             "required": true
 	    },
 		{
             "alias": "Extended Crafting: Good verison",
-            "fileID": 3501608,
-            "projectID": 231382,
+            "fileID": 3467988,
+            "projectID": 398267,
             "required": true
         },
 		{
             "alias": "Cucumber Library",
-            "fileID": 3561215,
+            "fileID": 2645867,
             "projectID": 272335,
             "required": true
         },
@@ -132,4 +132,20 @@
             "fileID": 3340981,
             "projectID": 491406,
             "required": true
-        },
+        }
+    ],
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "minecraft": {
+        "modLoaders": [
+            {
+                "id": "forge-14.23.5.2859",
+                "primary": true
+            }
+        ],
+        "version": "1.12.2"
+    },
+    "name": "FTMpack",
+    "overrides": "overrides",
+    "version": "1.0"
+}
