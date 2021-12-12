@@ -1,9 +1,9 @@
 {
-	"name": "kcp-buildtools",
+	"name": "FTM-buildtools",
 	"version": "1",
-	"description": "KCP Server Builder.",
+	"description": "FTM pack builder",
 	"main": "gulpfile.js",
-	"author": "Talan122",
+	"author": "Credit to Talan122",
 	"license": "LGPL-3.0",
 	"devDependencies": {
 		"@octokit/rest": "^18.3.5",

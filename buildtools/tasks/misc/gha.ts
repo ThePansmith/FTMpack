@@ -2,7 +2,7 @@ import { makeArtifactNameBody } from "../../util/util";
 import sanitize from "sanitize-filename";
 
 export async function makeArtifactNames(): Promise<void> {
-	const body = makeArtifactNameBody("KSP_dev");
+	const body = makeArtifactNameBody("FTMpack_dev");
 	const names = {
 		client: body + "-client",
 		server: body + "-server",
