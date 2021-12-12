@@ -1,3 +1,11 @@
+## Version 0.2
+* Fixed Bibliotheca fileID
+* Changed build related stuff
+
+All mods to up to day 15 have been added, with the following exceptions:
+* AR and it's Lib - Fluidstack errors
+* Not Just Another Ruby Mod 2 - Tick loop error
+ 
 ## Version 0.1
 
 All mods to up to day 10 have been added, with the following exceptions:

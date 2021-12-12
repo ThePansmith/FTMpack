@@ -62,12 +62,6 @@
             "required": true
         },
         {
-            "alias": "Not Just Another Ruby Mod 2",
-            "fileID": 3208909,
-            "projectID": 421391,
-            "required": true
-        },
-        {
             "alias": "Crafttweaker",
             "fileID": 3523955,
             "projectID": 239197,
@@ -147,7 +141,7 @@
         },
         {
             "alias": "Bibliotheca",
-            "fileID": 3543594,
+            "fileID": 2661470,
             "projectID": 268210,
             "required": true
         },
@@ -173,6 +167,12 @@
             "alias": "BiomeTweaker",
             "fileID": 3112142,
             "projectID": 228895,
+            "required": true
+        },
+        {
+            "alias": "mtlib",
+            "fileID": 3308160,
+            "projectID": 253211,
             "required": true
         },
         {
@@ -227,18 +227,6 @@
             "alias": "Guide-API",
             "fileID": 2645992,
             "projectID": 228832,
-            "required": true
-        },
-        {
-            "alias": "Advanced Rocketry",
-            "fileID": 3015079,
-            "projectID": 236542,
-            "required": true
-        },
-        {
-            "alias": "libvulpes",
-            "fileID": 3499791,
-            "projectID": 236541,
             "required": true
         },
         {
