@@ -252,6 +252,12 @@
             "fileID": 2655413,
             "projectID": 268888,
             "required": true
+        },
+        {
+            "alias": "TerraFirmaCraft",
+            "fileID": 3406948,
+            "projectID": 302973,
+            "required": true
         }
     ],
     "manifestType": "minecraftModpack",
