@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
+=======
+## Version 0.2.1
+* Readded TFC and AR
+  * Clearly it wasnt those mods that was causing the fluidstack issues the previous dev was talking about
+>>>>>>> Stashed changes
 ## Version 0.2
 * Fixed Bibliotheca fileID
 * Changed build related stuff

@@ -253,6 +253,18 @@
             "projectID": 268888,
             "required": true
         }
+        {
+            "alias": "AR",
+            "fileID": 3015079,
+            "projectID": 236542,
+            "required": true
+        }
+        {
+            "alias": "libvulpes",
+            "fileID": 3499791,
+            "projectID": 236541,
+            "required": true
+        }
     ],
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
