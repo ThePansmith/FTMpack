@@ -6,6 +6,7 @@
 * AR and it's Lib - Fluidstack crash
 * Not Just Another Ruby Mod 2 - Tick loop crash
 * Optifine - no.
+* clay but it has every ore dictionary in the game - too much balance
 
 ### Misc
 * Fixed Bibliotheca fileID
