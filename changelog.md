@@ -1,9 +1,7 @@
-<<<<<<< Updated upstream
-=======
 ## Version 0.2.1
 * Readded TFC and AR
   * Clearly it wasnt those mods that was causing the fluidstack issues the previous dev was talking about
->>>>>>> Stashed changes
+
 ## Version 0.2
 * Fixed Bibliotheca fileID
 * Changed build related stuff
@@ -17,6 +15,9 @@
 ### Misc
 * Fixed Bibliotheca fileID
 * Changed build related stuff
+All mods to up to day 15 have been added, with the following exceptions:
+* AR and it's Lib - Fluidstack crash
+* Not Just Another Ruby Mod 2 - Tick loop crash
  
 ## Version 0.1
 
@@ -32,6 +33,7 @@
 * Orespawn - og packdev notes that it caused conflicts, also it shares manifest issues with sex mod
 
 ### Misc
+
+The following mods have been swapped out.
 * Extended crafting - replaced in favor of the omnifactory fork.
 * Lucky blocks - replaced in favor of chance cubes, as there is no 1.12 version of lucky blocks on forge.
-
