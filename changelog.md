@@ -1,3 +1,7 @@
+## Version 0.3
+
+* Vazkii mods
+
 ## Version 0.2.1
 * Readded TFC
 
