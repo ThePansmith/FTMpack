@@ -258,19 +258,91 @@
             "fileID": 3406948,
             "projectID": 302973,
             "required": true
-        }
+        },
         {
-            "alias": "AR",
-            "fileID": 3015079,
-            "projectID": 236542,
+            "alias": "Tech mod",
+            "fileID": 3330934,
+            "projectID": 225643,
+            "required": true
+        },
+        {
+            "alias": "Quark",
+            "fileID": 2924091,
+            "projectID": 243121,
+            "required": true
+        },
+        {
+            "alias": "I have only played touhou 6 ",
+            "fileID": 3162874,
+            "projectID": 306770,
+            "required": true
+        },
+        {
+            "alias": "psi",
+            "fileID": 3085917,
+            "projectID": 241665,
+            "required": true
+        },
+        {
+            "alias": "AutoRegLib",
+            "fileID": 2746011,
+            "projectID": 250363,
+            "required": true
+        },
+        {
+            "alias": "Morph-o-Tool",
+            "fileID": 2658176,
+            "projectID": 245287,
+            "required": true
+        },
+        {
+            "alias": "Akashic Tome",
+            "fileID": 2648656,
+            "projectID": 250577,
+            "required": true
+        },
+        {
+            "alias": "Quark Oddities",
+            "fileID": 2604798,
+            "projectID": 301051,
+            "required": true
+        },
+        {
+            "alias": "Potion Rings",
+            "fileID": 2825356,
+            "projectID": 344696,
+            "required": true
+        },
+        {
+            "alias": "You Win Button",
+            "fileID": 2667043,
+            "projectID": 312838,
+            "required": true
+        },
+        {
+            "alias": "Ambience (Music Mod)",
+            "fileID": 2491122,
+            "projectID": 238120,
+            "required": true
+        },
+        {
+            "alias": "Pillar",
+            "fileID": 2490795,
+            "projectID": 246695,
+            "required": true
+        },
+        {
+            "alias": "Baubles",
+            "fileID": 2518667,
+            "projectID": 227083,
             "required": true
         }
         {
-            "alias": "libvulpes",
-            "fileID": 3499791,
-            "projectID": 236541,
+            "alias": "We ran out of IDs at this point (NotenoughIDs)",
+            "fileID": 2695044,
+            "projectID": 235107,
             "required": true
-        }
+        }	
     ],
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
