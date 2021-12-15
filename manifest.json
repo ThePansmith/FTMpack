@@ -336,13 +336,85 @@
             "fileID": 2518667,
             "projectID": 227083,
             "required": true
-        }
+        },
         {
             "alias": "We ran out of IDs at this point (NotenoughIDs)",
             "fileID": 2695044,
             "projectID": 235107,
             "required": true
-        }	
+        },
+        {
+            "alias": "Big Chungus",
+            "fileID": 2655176,
+            "projectID": 310240,
+            "required": true
+        },
+        {
+            "alias": "Issun's Paintbox (lib) (broken?)",
+            "fileID": 2995633,
+            "projectID": 388145,
+            "required": true
+        },
+        {
+            "alias": "Frozen Slime",
+            "fileID": 2986141,
+            "projectID": 391337,
+            "required": true
+        },
+        {
+            "alias": "Scape and Run: Parasites",
+            "fileID": 3498704,
+            "projectID": 348025,
+            "required": true
+        },
+        {
+            "alias": "Random things",
+            "fileID": 2905241,
+            "projectID": 59816,
+            "required": true
+        },
+        {
+            "alias": "Ticon",
+            "fileID": 2902483,
+            "projectID": 74072,
+            "required": true
+        },
+        {
+            "alias": "Mantle",
+            "fileID": 2713386,
+            "projectID": 74924,
+            "required": true
+        },
+        {
+            "alias": "ExU2",
+            "fileID": 2678374,
+            "projectID": 225561,
+            "required": true
+        },
+        {
+            "alias": "AnimColle Legacy",
+            "fileID": 3233961,
+            "projectID": 340860,
+            "required": true
+        },
+        {
+            "alias": "Lycanites Mobs",
+            "fileID": 3498357,
+            "projectID": 224770,
+            "required": true
+        },
+        {
+            "alias": "Eloncraft",
+            "fileID": 2744552,
+            "projectID": 330330,
+            "required": true
+        },
+        {
+            "alias": "Pixelmon",
+            "fileID": 3545320,
+            "projectID": 389487,
+            "required": true
+        }
     ],
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
