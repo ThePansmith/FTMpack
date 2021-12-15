@@ -1,5 +1,9 @@
-## Version 0.3
+## Version 0.4
+* Up to day 20 now
+    * Most mods will not spawn by default due to TFC's cfg, expect cfg changes.
+* Holy shit the readme has text in it now.
 
+## Version 0.3
 * Vazkii mods
 
 ## Version 0.2.1
