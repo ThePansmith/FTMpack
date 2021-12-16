@@ -1,0 +1,6 @@
+
+{
+  "Name": "serpix",
+  "Registry ID": "lycanitesmobs:serpix",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntitySerpix"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "krake",
+  "Registry ID": "lycanitesmobs:krake",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityKrake"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "beholder",
+  "Registry ID": "lycanitesmobs:beholder",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityBeholder"
+}

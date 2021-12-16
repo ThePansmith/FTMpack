@@ -1,0 +1,6 @@
+
+{
+  "Name": "dweller",
+  "Registry ID": "lycanitesmobs:dweller",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityDweller"
+}

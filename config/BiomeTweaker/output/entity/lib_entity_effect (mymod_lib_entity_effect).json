@@ -1,0 +1,6 @@
+
+{
+  "Name": "lib_entity_effect",
+  "Registry ID": "mymod:lib_entity_effect",
+  "Class": "library.entities.LibEntityEffect"
+}

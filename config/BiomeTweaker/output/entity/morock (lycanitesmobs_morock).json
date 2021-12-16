@@ -1,0 +1,6 @@
+
+{
+  "Name": "morock",
+  "Registry ID": "lycanitesmobs:morock",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityMorock"
+}

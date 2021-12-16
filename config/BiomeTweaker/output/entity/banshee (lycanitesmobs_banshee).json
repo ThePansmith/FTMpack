@@ -1,0 +1,6 @@
+
+{
+  "Name": "banshee",
+  "Registry ID": "lycanitesmobs:banshee",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityBanshee"
+}

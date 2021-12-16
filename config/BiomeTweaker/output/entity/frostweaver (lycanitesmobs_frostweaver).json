@@ -1,0 +1,6 @@
+
+{
+  "Name": "frostweaver",
+  "Registry ID": "lycanitesmobs:frostweaver",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityFrostweaver"
+}

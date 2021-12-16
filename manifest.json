@@ -254,12 +254,6 @@
             "required": true
         },
         {
-            "alias": "TerraFirmaCraft",
-            "fileID": 3406948,
-            "projectID": 302973,
-            "required": true
-        },
-        {
             "alias": "Tech mod",
             "fileID": 3330934,
             "projectID": 225643,
@@ -410,12 +404,6 @@
             "required": true
         },
         {
-            "alias": "Pixelmon",
-            "fileID": 3545320,
-            "projectID": 389487,
-            "required": true
-        },
-        {
             "alias": "Snad",
             "fileID": 2480458,
             "projectID": 241344,
@@ -469,6 +457,12 @@
             "projectID": 419286,
             "required": true
         },
+        {
+            "alias": "Foam​Fix",
+            "fileID": 3327893,
+            "projectID": 278494,
+            "required": true
+        }
     ],
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,

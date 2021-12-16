@@ -1,0 +1,6 @@
+
+{
+  "Name": "conba",
+  "Registry ID": "lycanitesmobs:conba",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityConba"
+}

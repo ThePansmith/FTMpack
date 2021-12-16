@@ -1,0 +1,6 @@
+
+{
+  "Name": "my_vehicle_1",
+  "Registry ID": "mymod:my_vehicle_1",
+  "Class": "mymod.entities.vehicles.MyEntityVehicle1"
+}

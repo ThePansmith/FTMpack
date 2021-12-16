@@ -1,0 +1,6 @@
+
+{
+  "Name": "lobber",
+  "Registry ID": "lycanitesmobs:lobber",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityLobber"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "cinder",
+  "Registry ID": "lycanitesmobs:cinder",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityCinder"
+}

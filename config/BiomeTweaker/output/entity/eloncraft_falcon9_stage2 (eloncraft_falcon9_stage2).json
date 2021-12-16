@@ -1,0 +1,6 @@
+
+{
+  "Name": "eloncraft:falcon9_stage2",
+  "Registry ID": "eloncraft:falcon9_stage2",
+  "Class": "org.sdoaj.eloncraft.entity.rocket.falcon9.EntityFalcon9Stage2"
+}

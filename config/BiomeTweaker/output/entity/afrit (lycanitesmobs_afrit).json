@@ -1,0 +1,6 @@
+
+{
+  "Name": "afrit",
+  "Registry ID": "lycanitesmobs:afrit",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityAfrit"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "ghoul",
+  "Registry ID": "lycanitesmobs:ghoul",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityGhoul"
+}

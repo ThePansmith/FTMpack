@@ -1,0 +1,6 @@
+
+{
+  "Name": "my_mob_2",
+  "Registry ID": "mymod:my_mob_2",
+  "Class": "mymod.entities.mobs.MyEntityMob2"
+}
