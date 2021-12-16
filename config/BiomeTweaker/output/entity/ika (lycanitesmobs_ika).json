@@ -1,0 +1,6 @@
+
+{
+  "Name": "ika",
+  "Registry ID": "lycanitesmobs:ika",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityIka"
+}

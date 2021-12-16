@@ -1,0 +1,6 @@
+
+{
+  "Name": "trite",
+  "Registry ID": "lycanitesmobs:trite",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityTrite"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "maug",
+  "Registry ID": "lycanitesmobs:maug",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityMaug"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "zephyr",
+  "Registry ID": "lycanitesmobs:zephyr",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityZephyr"
+}

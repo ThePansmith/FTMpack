@@ -1,0 +1,6 @@
+
+{
+  "Name": "silex",
+  "Registry ID": "lycanitesmobs:silex",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntitySilex"
+}

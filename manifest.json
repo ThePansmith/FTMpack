@@ -254,12 +254,6 @@
             "required": true
         },
         {
-            "alias": "TerraFirmaCraft",
-            "fileID": 3406948,
-            "projectID": 302973,
-            "required": true
-        },
-        {
             "alias": "Tech mod",
             "fileID": 3330934,
             "projectID": 225643,
@@ -410,9 +404,63 @@
             "required": true
         },
         {
-            "alias": "Pixelmon",
-            "fileID": 3545320,
-            "projectID": 389487,
+            "alias": "Snad",
+            "fileID": 2480458,
+            "projectID": 241344,
+            "required": true
+        },
+        {
+            "alias": "Esuper Botany",
+            "fileID": 3005243,
+            "projectID": 395782,
+            "required": true
+        },
+        {
+            "alias": "TexFix",
+            "fileID": 2518068,
+            "projectID": 283344,
+            "required": true
+        },
+        {
+            "alias": "Clumps",
+            "fileID": 2666198,
+            "projectID": 256717,
+            "required": true
+        },
+        {
+            "alias": "AI Improvements",
+            "fileID": 2468387,
+            "projectID": 233019,
+            "required": true
+        },
+        {
+            "alias": "Mixin 0.7-0.8 Compatibility",
+            "fileID": 3045381,
+            "projectID": 405327,
+            "required": true
+        },
+        {
+            "alias": "AI Reducer",
+            "fileID": 3543884,
+            "projectID": 367831,
+            "required": true
+        },
+        {
+            "alias": "loliasm",
+            "fileID": 3551623,
+            "projectID": 460609,
+            "required": true
+        },
+        {
+            "alias": "MixinBooter",
+            "fileID": 3321174,
+            "projectID": 419286,
+            "required": true
+        },
+        {
+            "alias": "Foam​Fix",
+            "fileID": 3327893,
+            "projectID": 278494,
             "required": true
         }
     ],

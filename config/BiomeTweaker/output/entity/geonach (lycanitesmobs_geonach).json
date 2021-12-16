@@ -1,0 +1,6 @@
+
+{
+  "Name": "geonach",
+  "Registry ID": "lycanitesmobs:geonach",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityGeonach"
+}

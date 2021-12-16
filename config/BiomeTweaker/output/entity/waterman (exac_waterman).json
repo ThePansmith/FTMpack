@@ -1,0 +1,6 @@
+
+{
+  "Name": "waterman",
+  "Registry ID": "exac:waterman",
+  "Class": "cn.nulladev.exac.entity.EntityWaterman"
+}

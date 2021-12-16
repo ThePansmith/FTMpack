@@ -1,0 +1,6 @@
+
+{
+  "Name": "warg",
+  "Registry ID": "lycanitesmobs:warg",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityWarg"
+}

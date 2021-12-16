@@ -1,0 +1,6 @@
+
+{
+  "Name": "tremor",
+  "Registry ID": "lycanitesmobs:tremor",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityTremor"
+}

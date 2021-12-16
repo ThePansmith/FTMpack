@@ -1,0 +1,6 @@
+
+{
+  "Name": "volcan",
+  "Registry ID": "lycanitesmobs:volcan",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityVolcan"
+}

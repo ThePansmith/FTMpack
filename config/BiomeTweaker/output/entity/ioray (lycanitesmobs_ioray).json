@@ -1,0 +1,6 @@
+
+{
+  "Name": "ioray",
+  "Registry ID": "lycanitesmobs:ioray",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityIoray"
+}

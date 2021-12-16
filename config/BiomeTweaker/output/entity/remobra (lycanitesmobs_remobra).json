@@ -1,0 +1,6 @@
+
+{
+  "Name": "remobra",
+  "Registry ID": "lycanitesmobs:remobra",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityRemobra"
+}

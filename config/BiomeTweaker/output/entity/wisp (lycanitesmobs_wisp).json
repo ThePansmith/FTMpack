@@ -1,0 +1,6 @@
+
+{
+  "Name": "wisp",
+  "Registry ID": "lycanitesmobs:wisp",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityWisp"
+}

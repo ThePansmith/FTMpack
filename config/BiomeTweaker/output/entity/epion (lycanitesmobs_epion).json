@@ -1,0 +1,6 @@
+
+{
+  "Name": "epion",
+  "Registry ID": "lycanitesmobs:epion",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityEpion"
+}

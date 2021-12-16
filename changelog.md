@@ -1,6 +1,13 @@
+## Verison 0.4.1 
+* Removed TFC
+  * No worldgen config, and it's other features are somewhat redundant
+* Added a couple of preformace mods
+* Removed Pixelmon - still eats RAM, even with texfix
+
+
 ## Version 0.4
 * Up to day 20 now
-    * Most mods will not spawn by default due to TFC's cfg, expect cfg changes.
+    * Most mobs and buildings will not spawn by default due to TFC's cfg, expect cfg changes.
 * Holy shit the readme has text in it now.
 
 ## Version 0.3

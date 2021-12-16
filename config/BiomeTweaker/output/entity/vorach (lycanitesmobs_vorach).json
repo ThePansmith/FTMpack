@@ -1,0 +1,6 @@
+
+{
+  "Name": "vorach",
+  "Registry ID": "lycanitesmobs:vorach",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityVorach"
+}

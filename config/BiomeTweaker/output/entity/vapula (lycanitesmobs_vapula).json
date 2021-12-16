@@ -1,0 +1,6 @@
+
+{
+  "Name": "vapula",
+  "Registry ID": "lycanitesmobs:vapula",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityVapula"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "ventoraptor",
+  "Registry ID": "lycanitesmobs:ventoraptor",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityVentoraptor"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "barghest",
+  "Registry ID": "lycanitesmobs:barghest",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityBarghest"
+}

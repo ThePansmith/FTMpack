@@ -1,0 +1,6 @@
+
+{
+  "Name": "triffid",
+  "Registry ID": "lycanitesmobs:triffid",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityTriffid"
+}

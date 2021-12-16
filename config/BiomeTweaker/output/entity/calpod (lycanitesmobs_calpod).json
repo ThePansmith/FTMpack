@@ -1,0 +1,6 @@
+
+{
+  "Name": "calpod",
+  "Registry ID": "lycanitesmobs:calpod",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityCalpod"
+}

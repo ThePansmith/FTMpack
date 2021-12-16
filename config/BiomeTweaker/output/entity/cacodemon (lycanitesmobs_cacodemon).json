@@ -1,0 +1,6 @@
+
+{
+  "Name": "cacodemon",
+  "Registry ID": "lycanitesmobs:cacodemon",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityCacodemon"
+}

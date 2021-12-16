@@ -1,0 +1,6 @@
+
+{
+  "Name": "concapede",
+  "Registry ID": "lycanitesmobs:concapede",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityConcapedeHead"
+}

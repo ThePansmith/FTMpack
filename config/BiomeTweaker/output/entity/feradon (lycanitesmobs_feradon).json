@@ -1,0 +1,6 @@
+
+{
+  "Name": "feradon",
+  "Registry ID": "lycanitesmobs:feradon",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityFeradon"
+}

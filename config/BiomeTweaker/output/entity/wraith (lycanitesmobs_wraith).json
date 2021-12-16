@@ -1,0 +1,6 @@
+
+{
+  "Name": "wraith",
+  "Registry ID": "lycanitesmobs:wraith",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityWraith"
+}

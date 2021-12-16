@@ -1,0 +1,6 @@
+
+{
+  "Name": "lurker",
+  "Registry ID": "lycanitesmobs:lurker",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityLurker"
+}

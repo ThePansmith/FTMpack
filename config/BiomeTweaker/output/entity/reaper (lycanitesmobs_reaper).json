@@ -1,0 +1,6 @@
+
+{
+  "Name": "reaper",
+  "Registry ID": "lycanitesmobs:reaper",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityReaper"
+}

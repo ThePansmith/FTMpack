@@ -1,0 +1,6 @@
+
+{
+  "Name": "reiver",
+  "Registry ID": "lycanitesmobs:reiver",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityReiver"
+}

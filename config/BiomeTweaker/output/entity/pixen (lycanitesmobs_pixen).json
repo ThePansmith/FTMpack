@@ -1,0 +1,6 @@
+
+{
+  "Name": "pixen",
+  "Registry ID": "lycanitesmobs:pixen",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityPixen"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "gorgomite",
+  "Registry ID": "lycanitesmobs:gorgomite",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityGorgomite"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "shade",
+  "Registry ID": "lycanitesmobs:shade",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityShade"
+}

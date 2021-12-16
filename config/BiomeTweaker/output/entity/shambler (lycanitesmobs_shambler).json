@@ -1,0 +1,6 @@
+
+{
+  "Name": "shambler",
+  "Registry ID": "lycanitesmobs:shambler",
+  "Class": "com.lycanitesmobs.core.entity.creature.EntityShambler"
+}
