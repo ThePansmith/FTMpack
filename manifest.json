@@ -462,7 +462,79 @@
             "fileID": 3327893,
             "projectID": 278494,
             "required": true
-        }
+        },
+        {
+            "alias": "Just Enough Dimensions",
+            "fileID": 2932048,
+            "projectID": 254317,
+            "required": true
+        },
+        {
+            "alias": "Mahou Tsukai",
+            "fileID": 3512153,
+            "projectID": 342543,
+            "required": true
+        },
+        {
+            "alias": "EnderIO",
+            "fileID": 3328811,
+            "projectID": 64578,
+            "required": true
+        },
+        {
+            "alias": "UniDict",
+            "fileID": 3553627,
+            "projectID": 244258,
+            "required": true
+        },
+        {
+            "alias": "InstantUnify",
+            "fileID": 2816595,
+            "projectID": 277047,
+            "required": true
+        },
+        {
+            "alias": "Pokecube AIO",
+            "fileID": 2864725,
+            "projectID": 285121,
+            "required": true
+        },
+        {
+            "alias": "Ex Nihilo: Creatio",
+            "fileID": 2817545,
+            "projectID": 274456,
+            "required": true
+        },
+        {
+            "alias": "Tinkers' Tool Leveling",
+            "fileID": 2630860,
+            "projectID": 250957,
+            "required": true
+        },
+        {
+            "alias": "Tinkers' Complement",
+            "fileID": 2843439,
+            "projectID": 272671,
+            "required": true
+        },
+        {
+            "alias": "Industrial Renewal",
+            "fileID": 3340876,
+            "projectID": 299849,
+            "required": true
+        },
+        {
+            "alias": "YARCF",
+            "fileID": 3310627,
+            "projectID": 482566,
+            "required": true
+        },
+        {
+            "alias": "YARCF",
+            "fileID": 3310627,
+            "projectID": 482566,
+            "required": true
+        },
     ],
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
