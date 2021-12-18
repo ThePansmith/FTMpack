@@ -1,682 +1,676 @@
 {
-    "author": "Pansmith",
-    "files": [
-        {
-            "alias": "Gregicality",
-            "fileID": 3542805,
-            "projectID": 364851,
-            "required": true
-        },
-        {
-            "alias": "GTCE",
-            "fileID": 3478805,
-            "projectID": 293327,
-            "required": true
-        },
-        {
-            "alias": "CodeChicken Lib",
-            "fileID": 2779848,
-            "projectID": 242818,
-            "required": true
-        },
-        {
-            "alias": "ConnectedTexturesMod",
-            "fileID": 2915363,
-            "projectID": 267602,
-            "required": true
-        },
-        {
-            "alias": "NEI but for 1.12",
-            "fileID": 3043174,
-            "projectID": 238222,
-            "required": true
-        },
-        {
-            "alias": "Opencomputers",
-            "fileID": 2828357,
-            "projectID": 223008,
-            "required": true
-        },
-        {
-            "alias": "ProjectE",
-            "fileID": 2702991,
-            "projectID": 226410,
-            "required": true
-        },
-        {
-            "alias": "QMD",
-            "fileID": 3493623,
-            "projectID": 362056,
-            "required": true
-        },
-        {
-            "alias": "NC required for QMD",
-            "fileID": 3386487,
-            "projectID": 336895,
-            "required": true
-        },
-        {
-            "alias": "Better Questing",
-            "fileID": 2950248,
-            "projectID": 238856,
-            "required": true
-        },
-        {
-            "alias": "Crafttweaker",
-            "fileID": 3523955,
-            "projectID": 239197,
-            "required": true
-        },
-        {
-            "alias": "is a mod by greg",
-            "fileID": 2595310,
-            "projectID": 238372,
-            "required": true
-        },
-        {
-            "alias": "Luckyblocks replacement: Chance Cubes",
-            "fileID": 3087611,
-            "projectID": 233113,
-            "required": true
-	    },
-		{
-            "alias": "Extended Crafting: Good verison",
-            "fileID": 3467988,
-            "projectID": 398267,
-            "required": true
-        },
-		{
-            "alias": "Cucumber Library",
-            "fileID": 2645867,
-            "projectID": 272335,
-            "required": true
-        },
-		{
-            "alias": "Avaritia",
-            "fileID": 3143349,
-            "projectID": 261348,
-            "required": true
-        },
-        {
-            "alias": "Draconic Evolution",
-            "fileID": 3431261,
-            "projectID": 223565,
-            "required": true
-        },
-        {
-            "alias": "Redstone Flux",
-            "fileID": 2920436,
-            "projectID": 270789,
-            "required": true
-        },
-        {
-            "alias": "Brandon's Core",
-            "fileID": 3408276,
-            "projectID": 231382,
-            "required": true
-        },
-        {
-            "alias": "New fluids",
-            "fileID": 3340981,
-            "projectID": 491406,
-            "required": true
-        },
-        {
-            "alias": "AcademyCraft",
-            "fileID": 3005254,
-            "projectID": 236188,
-            "required": true
-        },
-        {
-            "alias": "ExtraAcademy",
-            "fileID": 3510156,
-            "projectID": 534363,
-            "required": true
-        },
-        {
-            "alias": "E-Vaporate",
-            "fileID": 2573014,
-            "projectID": 286570,
-            "required": true
-        },
-        {
-            "alias": "Bibliotheca",
-            "fileID": 2661470,
-            "projectID": 268210,
-            "required": true
-        },
-        {
-            "alias": "ContentTweaker",
-            "fileID": 3331364,
-            "projectID": 237065,
-            "required": true
-        },
-        {
-            "alias": "BASE",
-            "fileID": 3440963,
-            "projectID": 246996,
-            "required": true
-        },
-        {
-            "alias": "ModTweaker",
-            "fileID": 3488553,
-            "projectID": 220954,
-            "required": true
-        },
-        {
-            "alias": "BiomeTweaker",
-            "fileID": 3112142,
-            "projectID": 228895,
-            "required": true
-        },
-        {
-            "alias": "mtlib",
-            "fileID": 3308160,
-            "projectID": 253211,
-            "required": true
-        },
-        {
-            "alias": "BiomeTweakerCore",
-            "fileID": 2527645,
-            "projectID": 270116,
-            "required": true
-        },
-        {
-            "alias": "CoFH World",
-            "fileID": 2920434,
-            "projectID": 271384,
-            "required": true
-        },
-        {
-            "alias": "The Abdera Science Mod",
-            "fileID": 2746339,
-            "projectID": 331748,
-            "required": true
-        },
-        {
-            "alias": "Rats",
-            "fileID": 3028671,
-            "projectID": 323596,
-            "required": true
-        },
-        {
-            "alias": "LLibrary",
-            "fileID": 3116493,
-            "projectID": 243298,
-            "required": true
-        },
-        {
-            "alias": "ProjectEX",
-            "fileID": 3014173,
-            "projectID": 311378,
-            "required": true
-        },
-        {
-            "alias": "BorealisExpansion",
-            "fileID": 3511333,
-            "projectID": 531509,
-            "required": true
-        },
-        {
-            "alias": "Thaumic Potatoes 2",
-            "fileID": 2488941,
-            "projectID": 270721,
-            "required": true
-        },
-        {
-            "alias": "Guide-API",
-            "fileID": 2645992,
-            "projectID": 228832,
-            "required": true
-        },
-        {
-            "alias": "Piss mod",
-            "fileID": 2941017,
-            "projectID": 378901,
-            "required": true
-        },
-        {
-            "alias": "Modular Forcefield System",
-            "fileID": 2581227,
-            "projectID": 59882,
-            "required": true
-        },
-        {
-            "alias": "KFC Experimental",
-            "fileID": 3231695,
-            "projectID": 382933,
-            "required": true
-        },
-        {
-            "alias": "Nether Chest",
-            "fileID": 2655413,
-            "projectID": 268888,
-            "required": true
-        },
-        {
-            "alias": "Tech mod",
-            "fileID": 3330934,
-            "projectID": 225643,
-            "required": true
-        },
-        {
-            "alias": "Quark",
-            "fileID": 2924091,
-            "projectID": 243121,
-            "required": true
-        },
-        {
-            "alias": "I have only played touhou 6 ",
-            "fileID": 3162874,
-            "projectID": 306770,
-            "required": true
-        },
-        {
-            "alias": "psi",
-            "fileID": 3085917,
-            "projectID": 241665,
-            "required": true
-        },
-        {
-            "alias": "AutoRegLib",
-            "fileID": 2746011,
-            "projectID": 250363,
-            "required": true
-        },
-        {
-            "alias": "Morph-o-Tool",
-            "fileID": 2658176,
-            "projectID": 245287,
-            "required": true
-        },
-        {
-            "alias": "Akashic Tome",
-            "fileID": 2648656,
-            "projectID": 250577,
-            "required": true
-        },
-        {
-            "alias": "Quark Oddities",
-            "fileID": 2604798,
-            "projectID": 301051,
-            "required": true
-        },
-        {
-            "alias": "Potion Rings",
-            "fileID": 2825356,
-            "projectID": 344696,
-            "required": true
-        },
-        {
-            "alias": "You Win Button",
-            "fileID": 2667043,
-            "projectID": 312838,
-            "required": true
-        },
-        {
-            "alias": "Ambience (Music Mod)",
-            "fileID": 2491122,
-            "projectID": 238120,
-            "required": true
-        },
-        {
-            "alias": "Pillar",
-            "fileID": 2490795,
-            "projectID": 246695,
-            "required": true
-        },
-        {
-            "alias": "Baubles",
-            "fileID": 2518667,
-            "projectID": 227083,
-            "required": true
-        },
-        {
-            "alias": "We ran out of IDs at this point (NotenoughIDs)",
-            "fileID": 2919737,
-            "projectID": 296289,
-            "required": true
-        },
-        {
-            "alias": "Big Chungus",
-            "fileID": 2655176,
-            "projectID": 310240,
-            "required": true
-        },
-        {
-            "alias": "Issun's Paintbox (lib) (broken?)",
-            "fileID": 2995633,
-            "projectID": 388145,
-            "required": true
-        },
-        {
-            "alias": "Frozen Slime",
-            "fileID": 2986141,
-            "projectID": 391337,
-            "required": true
-        },
-        {
-            "alias": "Scape and Run: Parasites",
-            "fileID": 3498704,
-            "projectID": 348025,
-            "required": true
-        },
-        {
-            "alias": "Random things",
-            "fileID": 2905241,
-            "projectID": 59816,
-            "required": true
-        },
-        {
-            "alias": "Ticon",
-            "fileID": 2902483,
-            "projectID": 74072,
-            "required": true
-        },
-        {
-            "alias": "Mantle",
-            "fileID": 2713386,
-            "projectID": 74924,
-            "required": true
-        },
-        {
-            "alias": "ExU2",
-            "fileID": 2678374,
-            "projectID": 225561,
-            "required": true
-        },
-        {
-            "alias": "AnimColle Legacy",
-            "fileID": 3233961,
-            "projectID": 340860,
-            "required": true
-        },
-        {
-            "alias": "Lycanites Mobs",
-            "fileID": 3498357,
-            "projectID": 224770,
-            "required": true
-        },
-        {
-            "alias": "Eloncraft",
-            "fileID": 2744552,
-            "projectID": 330330,
-            "required": true
-        },
-        {
-            "alias": "Snad",
-            "fileID": 2480458,
-            "projectID": 241344,
-            "required": true
-        },
-        {
-            "alias": "Esuper Botany",
-            "fileID": 3005243,
-            "projectID": 395782,
-            "required": true
-        },
-        {
-            "alias": "TexFix",
-            "fileID": 2518068,
-            "projectID": 283344,
-            "required": true
-        },
-        {
-            "alias": "Clumps",
-            "fileID": 2666198,
-            "projectID": 256717,
-            "required": true
-        },
-        {
-            "alias": "AI Improvements",
-            "fileID": 2468387,
-            "projectID": 233019,
-            "required": true
-        },
-        {
-            "alias": "Mixin 0.7-0.8 Compatibility",
-            "fileID": 3045381,
-            "projectID": 405327,
-            "required": true
-        },
-        {
-            "alias": "AI Reducer",
-            "fileID": 3543884,
-            "projectID": 367831,
-            "required": true
-        },
-        {
-            "alias": "loliasm",
-            "fileID": 3551623,
-            "projectID": 460609,
-            "required": true
-        },
-        {
-            "alias": "MixinBooter",
-            "fileID": 3321174,
-            "projectID": 419286,
-            "required": true
-        },
-		{
-            "alias": "YARCF",
-            "fileID": 3310627,
-            "projectID": 482566,
-		},
-        {
-            "alias": "Foam​Fix",
-            "fileID": 3327893,
-            "projectID": 278494,
-            "required": true
-        },
-        {
-            "alias": "Just Enough Dimensions",
-            "fileID": 2932048,
-            "projectID": 254317,
-            "required": true
-        },
-        {
-            "alias": "Mahou Tsukai",
-            "fileID": 3512153,
-            "projectID": 342543,
-            "required": true
-        },
-        {
-            "alias": "EnderIO",
-            "fileID": 3328811,
-            "projectID": 64578,
-            "required": true
-        },
-        {
-            "alias": "UniDict",
-            "fileID": 3553627,
-            "projectID": 244258,
-            "required": true
-        },
-        {
-            "alias": "InstantUnify",
-            "fileID": 2578325,
-            "projectID": 277047,
-            "required": true
-        },
-        {
-            "alias": "Pokecube AIO",
-            "fileID": 2864725,
-            "projectID": 285121,
-            "required": true
-        },
-        {
-            "alias": "Ex Nihilo: Creatio",
-            "fileID": 2817545,
-            "projectID": 274456,
-            "required": true
-        },
-        {
-            "alias": "Tinkers' Tool Leveling",
-            "fileID": 2630860,
-            "projectID": 250957,
-            "required": true
-        },
-        {
-            "alias": "Tinkers' Complement",
-            "fileID": 2843439,
-            "projectID": 272671,
-            "required": true
-        },
-        {
-            "alias": "Industrial Renewal",
-            "fileID": 3340876,
-            "projectID": 299849,
-            "required": true
-        },
-        {
-            "alias": "YARCF",
-            "fileID": 3310627,
-            "projectID": 482566,
-            "required": true
-        },
-        {
-            "alias": "endercore",
-            "fileID": 2972849,
-            "projectID": 231868,
-            "required": true
-        },
-        {
-            "alias": "WanionLib",
-            "fileID": 3558524,
-            "projectID": 253043,
-            "required": true
-        },
-        {
-            "alias": "Shadowfacts' Forgelin",
-            "fileID": 2785465,
-            "projectID": 248453,
-            "required": true
-        },
-        {
-            "alias": "Pickle Rick and Friends",
-            "fileID": 2956303,
-            "projectID": 371126,
-            "required": true
-        },
-        {
-            "alias": "psicaster",
-            "fileID": 3204251,
-            "projectID": 435119,
-            "required": true
-        },
-        {
-            "alias": "Psio",
-            "fileID": 3077697,
-            "projectID": 339394,
-            "required": true
-        },
-        {
-            "alias": "LibNine",
-            "fileID": 3509087,
-            "projectID": 322344,
-            "required": true
-        },
-        {
-            "alias": "The One Probe",
-            "fileID": 2667280,
-            "projectID": 245211,
-            "required": true
-        },
-	    {
-            "alias": "Rockhounding Mod: Core",
-            "fileID": 3287602,
-            "projectID": 271298,
-            "required": true
-        },	
-	    {
-            "alias": "Rockhounding Mod: Chemistry",
-            "fileID": 3466866,
-            "projectID": 251974,
-            "required": true
-        },	
-	    {
-            "alias": "Guidebook",
-            "fileID": 2727861,
-            "projectID": 253874,
-            "required": true
-        },
-	    {
-            "alias": "Bookshelf",
-            "fileID": 2836960,
-            "projectID": 228525,
-            "required": true
-        },
-	    {
-            "alias": "Rockhounding Mod: Surface",
-            "fileID": 3144377,
-            "projectID": 256072,
-            "required": true
-        },
-	    {
-            "alias": "Grimoire of Gaia",
-            "fileID": 2891787,
-            "projectID": 228948,
-            "required": true
-        },
-	    {
-            "alias": "Custom Main Menu",
-            "fileID": 2857869,
-            "projectID": 226406,
-            "required": true
-        },
-	    {
-            "alias": "Custom Loading Screen",
-            "fileID": 3486258,
-            "projectID": 229302,
-            "required": true
-        },
-	    {
-            "alias": "Tips",
-            "fileID": 2906537,
-            "projectID": 306549,
-            "required": true
-        },
-	    {
-            "alias": "Trinity",
-            "fileID": 3250277,
-            "projectID": 354949,
-            "required": true
-        },
-	    {
-            "alias": "flans mod",
-            "fileID": 3278090,
-            "projectID": 317310,
-            "required": true
-        },
-	    {
-            "alias": "Steves Bizarre Adventure",
-            "fileID": 3021063,
-            "projectID": 308495,
-            "required": true
-        }
-    ],
-    "manifestType": "minecraftModpack",
-    "manifestVersion": 1,
-    "minecraft": {
-        "modLoaders": [
-            {
-                "id": "forge-14.23.5.2859",
-                "primary": true
-            }
-        ],
-        "version": "1.12.2"
-    },
-    "name": "FTMpack",
-    "overrides": "overrides",
-    "version": "1.0"
+	"minecraft": {
+		"version": "1.12.2",
+		"modLoaders": [
+			"id": "forge-14.23.5.2860",
+			"primary": true
+		}
+	},
+	"manifestType": "minecraftModpack",
+	"manifestVersion": 1,
+	"name": "FTMpack",
+	"author": "Pansmith",
 	"externalDependencies": [
-    {
-      "name": "Applied Energistics 2 Trousers Edition",
-      "url": "https://github.com/PrototypeTrousers/Applied-Energistics-2/releases/download/Experimental-v49/appliedenergistics2-rv6-stable-7.omni-fixes-v49n.jar",
-      "sha": "55f455ab190db44ad5b5f887f235a8730d2e5d40"
-    },
-	{
-      "name": "Citrus-Random-Things",
-      "url": "https://github.com/CitrusHappy/Citrus-Random-Things/releases/download/v0.1/citrusthings-0.1.jar",
-    }
+	     {
+		"name": "Applied Energistics 2 Trousers Edition",
+		"url": "https://github.com/PrototypeTrousers/Applied-Energistics-2/releases/download/Experimental-v49/appliedenergistics2-rv6-stable-7.omni-fixes-v49n.jar",
+		"sha": "55f455ab190db44ad5b5f887f235a8730d2e5d40"
+		 }
+	],
+	"files": [
+			"alias": "Gregicality",
+			"fileID": 3542805,
+			"projectID": 364851,
+			"required": true
+		},
+		{
+			"alias": "GTCE",
+			"fileID": 3478805,
+			"projectID": 293327,
+			"required": true
+		},
+		{
+			"alias": "CodeChicken Lib",
+			"fileID": 2779848,
+			"projectID": 242818,
+			"required": true
+		},
+		{
+			"alias": "ConnectedTexturesMod",
+			"fileID": 2915363,
+			"projectID": 267602,
+			"required": true
+		},
+		{
+			"alias": "NEI but for 1.12",
+			"fileID": 3043174,
+			"projectID": 238222,
+			"required": true
+		},
+		{
+			"alias": "Opencomputers",
+			"fileID": 2828357,
+			"projectID": 223008,
+			"required": true
+		},
+		{
+			"alias": "ProjectE",
+			"fileID": 2702991,
+			"projectID": 226410,
+			"required": true
+		},
+		{
+			"alias": "QMD",
+			"fileID": 3493623,
+			"projectID": 362056,
+			"required": true
+		},
+		{
+			"alias": "NC required for QMD",
+			"fileID": 3386487,
+			"projectID": 336895,
+			"required": true
+		},
+		{
+			"alias": "Better Questing",
+			"fileID": 2950248,
+			"projectID": 238856,
+			"required": true
+		},
+		{
+			"alias": "Crafttweaker",
+			"fileID": 3523955,
+			"projectID": 239197,
+			"required": true
+		},
+		{
+			"alias": "is a mod by greg",
+			"fileID": 2595310,
+			"projectID": 238372,
+			"required": true
+		},
+		{
+			"alias": "Luckyblocks replacement: Chance Cubes",
+			"fileID": 3087611,
+			"projectID": 233113,
+			"required": true
+		},
+		{
+			"alias": "Extended Crafting: Good verison",
+			"fileID": 3467988,
+			"projectID": 398267,
+			"required": true
+		},
+		{
+			"alias": "Cucumber Library",
+			"fileID": 2645867,
+			"projectID": 272335,
+			"required": true
+		},
+		{
+			"alias": "Avaritia",
+			"fileID": 3143349,
+			"projectID": 261348,
+			"required": true
+		},
+		{
+			"alias": "Draconic Evolution",
+			"fileID": 3431261,
+			"projectID": 223565,
+			"required": true
+		},
+		{
+			"alias": "Redstone Flux",
+			"fileID": 2920436,
+			"projectID": 270789,
+			"required": true
+		},
+		{
+			"alias": "Brandon's Core",
+			"fileID": 3408276,
+			"projectID": 231382,
+			"required": true
+		},
+		{
+			"alias": "New fluids",
+			"fileID": 3340981,
+			"projectID": 491406,
+			"required": true
+		},
+		{
+			"alias": "AcademyCraft",
+			"fileID": 3005254,
+			"projectID": 236188,
+			"required": true
+		},
+		{
+			"alias": "ExtraAcademy",
+			"fileID": 3510156,
+			"projectID": 534363,
+			"required": true
+		},
+		{
+			"alias": "E-Vaporate",
+			"fileID": 2573014,
+			"projectID": 286570,
+			"required": true
+		},
+		{
+			"alias": "Bibliotheca",
+			"fileID": 2661470,
+			"projectID": 268210,
+			"required": true
+		},
+		{
+			"alias": "ContentTweaker",
+			"fileID": 3331364,
+			"projectID": 237065,
+			"required": true
+		},
+		{
+			"alias": "BASE",
+			"fileID": 3440963,
+			"projectID": 246996,
+			"required": true
+		},
+		{
+			"alias": "ModTweaker",
+			"fileID": 3488553,
+			"projectID": 220954,
+			"required": true
+		},
+		{
+			"alias": "BiomeTweaker",
+			"fileID": 3112142,
+			"projectID": 228895,
+			"required": true
+		},
+		{
+			"alias": "mtlib",
+			"fileID": 3308160,
+			"projectID": 253211,
+			"required": true
+		},
+		{
+			"alias": "BiomeTweakerCore",
+			"fileID": 2527645,
+			"projectID": 270116,
+			"required": true
+		},
+		{
+			"alias": "CoFH World",
+			"fileID": 2920434,
+			"projectID": 271384,
+			"required": true
+		},
+		{
+			"alias": "The Abdera Science Mod",
+			"fileID": 2746339,
+			"projectID": 331748,
+			"required": true
+		},
+		{
+			"alias": "Rats",
+			"fileID": 3028671,
+			"projectID": 323596,
+			"required": true
+		},
+		{
+			"alias": "LLibrary",
+			"fileID": 3116493,
+			"projectID": 243298,
+			"required": true
+		},
+		{
+			"alias": "ProjectEX",
+			"fileID": 3014173,
+			"projectID": 311378,
+			"required": true
+		},
+		{
+			"alias": "BorealisExpansion",
+			"fileID": 3511333,
+			"projectID": 531509,
+			"required": true
+		},
+		{
+			"alias": "Thaumic Potatoes 2",
+			"fileID": 2488941,
+			"projectID": 270721,
+			"required": true
+		},
+		{
+			"alias": "Guide-API",
+			"fileID": 2645992,
+			"projectID": 228832,
+			"required": true
+		},
+		{
+			"alias": "Piss mod",
+			"fileID": 2941017,
+			"projectID": 378901,
+			"required": true
+		},
+		{
+			"alias": "Modular Forcefield System",
+			"fileID": 2581227,
+			"projectID": 59882,
+			"required": true
+		},
+		{
+			"alias": "KFC Experimental",
+			"fileID": 3231695,
+			"projectID": 382933,
+			"required": true
+		},
+		{
+			"alias": "Nether Chest",
+			"fileID": 2655413,
+			"projectID": 268888,
+			"required": true
+		},
+		{
+			"alias": "Tech mod",
+			"fileID": 3330934,
+			"projectID": 225643,
+			"required": true
+		},
+		{
+			"alias": "Quark",
+			"fileID": 2924091,
+			"projectID": 243121,
+			"required": true
+		},
+		{
+			"alias": "I have only played touhou 6 ",
+			"fileID": 3162874,
+			"projectID": 306770,
+			"required": true
+		},
+		{
+			"alias": "psi",
+			"fileID": 3085917,
+			"projectID": 241665,
+			"required": true
+		},
+		{
+			"alias": "AutoRegLib",
+			"fileID": 2746011,
+			"projectID": 250363,
+			"required": true
+		},
+		{
+			"alias": "Morph-o-Tool",
+			"fileID": 2658176,
+			"projectID": 245287,
+			"required": true
+		},
+		{
+			"alias": "Akashic Tome",
+			"fileID": 2648656,
+			"projectID": 250577,
+			"required": true
+		},
+		{
+			"alias": "Quark Oddities",
+			"fileID": 2604798,
+			"projectID": 301051,
+			"required": true
+		},
+		{
+			"alias": "Potion Rings",
+			"fileID": 2825356,
+			"projectID": 344696,
+			"required": true
+		},
+		{
+			"alias": "You Win Button",
+			"fileID": 2667043,
+			"projectID": 312838,
+			"required": true
+		},
+		{
+			"alias": "Ambience (Music Mod)",
+			"fileID": 2491122,
+			"projectID": 238120,
+			"required": true
+		},
+		{
+			"alias": "Pillar",
+			"fileID": 2490795,
+			"projectID": 246695,
+			"required": true
+		},
+		{
+			"alias": "Baubles",
+			"fileID": 2518667,
+			"projectID": 227083,
+			"required": true
+		},
+		{
+			"alias": "We ran out of IDs at this point (JEID)",
+			"fileID": 2919737,
+			"projectID": 296289,
+			"required": true
+		},
+		{
+			"alias": "Big Chungus",
+			"fileID": 2655176,
+			"projectID": 310240,
+			"required": true
+		},
+		{
+			"alias": "Issun's Paintbox (lib) (broken?)",
+			"fileID": 2995633,
+			"projectID": 388145,
+			"required": true
+		},
+		{
+			"alias": "Frozen Slime",
+			"fileID": 2986141,
+			"projectID": 391337,
+			"required": true
+		},
+		{
+			"alias": "Scape and Run: Parasites",
+			"fileID": 3498704,
+			"projectID": 348025,
+			"required": true
+		},
+		{
+			"alias": "Random things",
+			"fileID": 2905241,
+			"projectID": 59816,
+			"required": true
+		},
+		{
+			"alias": "Ticon",
+			"fileID": 2902483,
+			"projectID": 74072,
+			"required": true
+		},
+		{
+			"alias": "Mantle",
+			"fileID": 2713386,
+			"projectID": 74924,
+			"required": true
+		},
+		{
+			"alias": "ExU2",
+			"fileID": 2678374,
+			"projectID": 225561,
+			"required": true
+		},
+		{
+			"alias": "AnimColle Legacy",
+			"fileID": 3233961,
+			"projectID": 340860,
+			"required": true
+		},
+		{
+			"alias": "Lycanites Mobs",
+			"fileID": 3498357,
+			"projectID": 224770,
+			"required": true
+		},
+		{
+			"alias": "Eloncraft",
+			"fileID": 2744552,
+			"projectID": 330330,
+			"required": true
+		},
+		{
+			"alias": "Snad",
+			"fileID": 2480458,
+			"projectID": 241344,
+			"required": true
+		},
+		{
+			"alias": "Esuper Botany",
+			"fileID": 3005243,
+			"projectID": 395782,
+			"required": true
+		},
+		{
+			"alias": "TexFix",
+			"fileID": 2518068,
+			"projectID": 283344,
+			"required": true
+		},
+		{
+			"alias": "Clumps",
+			"fileID": 2666198,
+			"projectID": 256717,
+			"required": true
+		},
+		{
+			"alias": "AI Improvements",
+			"fileID": 2468387,
+			"projectID": 233019,
+			"required": true
+		},
+		{
+			"alias": "Mixin 0.7-0.8 Compatibility",
+			"fileID": 3045381,
+			"projectID": 405327,
+			"required": true
+		},
+		{
+			"alias": "AI Reducer",
+			"fileID": 3543884,
+			"projectID": 367831,
+			"required": true
+		},
+		{
+			"alias": "loliasm",
+			"fileID": 3551623,
+			"projectID": 460609,
+			"required": true
+		},
+		{
+			"alias": "MixinBooter",
+			"fileID": 3321174,
+			"projectID": 419286,
+			"required": true
+		},
+		{
+			"alias": "YARCF",
+			"fileID": 3310627,
+			"projectID": 482566,
+			"required": true
+		},
+		{
+			"alias": "Foam​Fix",
+			"fileID": 3327893,
+			"projectID": 278494,
+			"required": true
+		},
+		{
+			"alias": "Just Enough Dimensions",
+			"fileID": 2932048,
+			"projectID": 254317,
+			"required": true
+		},
+		{
+			"alias": "Mahou Tsukai",
+			"fileID": 3512153,
+			"projectID": 342543,
+			"required": true
+		},
+		{
+			"alias": "EnderIO",
+			"fileID": 3328811,
+			"projectID": 64578,
+			"required": true
+		},
+		{
+			"alias": "UniDict",
+			"fileID": 3553627,
+			"projectID": 244258,
+			"required": true
+		},
+		{
+			"alias": "InstantUnify",
+			"fileID": 2578325,
+			"projectID": 277047,
+			"required": true
+		},
+		{
+			"alias": "Pokecube AIO",
+			"fileID": 2864725,
+			"projectID": 285121,
+			"required": true
+		},
+		{
+			"alias": "Ex Nihilo: Creatio",
+			"fileID": 2817545,
+			"projectID": 274456,
+			"required": true
+		},
+		{
+			"alias": "Tinkers' Tool Leveling",
+			"fileID": 2630860,
+			"projectID": 250957,
+			"required": true
+		},
+		{
+			"alias": "Tinkers' Complement",
+			"fileID": 2843439,
+			"projectID": 272671,
+			"required": true
+		},
+		{
+			"alias": "Industrial Renewal",
+			"fileID": 3340876,
+			"projectID": 299849,
+			"required": true
+		},
+		{
+			"alias": "YARCF",
+			"fileID": 3310627,
+			"projectID": 482566,
+			"required": true
+		},
+		{
+			"alias": "endercore",
+			"fileID": 2972849,
+			"projectID": 231868,
+			"required": true
+		},
+		{
+			"alias": "WanionLib",
+			"fileID": 3558524,
+			"projectID": 253043,
+			"required": true
+		},
+		{
+			"alias": "Shadowfacts' Forgelin",
+			"fileID": 2785465,
+			"projectID": 248453,
+			"required": true
+		},
+		{
+			"alias": "Pickle Rick and Friends",
+			"fileID": 2956303,
+			"projectID": 371126,
+			"required": true
+		},
+		{
+			"alias": "psicaster",
+			"fileID": 3204251,
+			"projectID": 435119,
+			"required": true
+		},
+		{
+			"alias": "Psio",
+			"fileID": 3077697,
+			"projectID": 339394,
+			"required": true
+		},
+		{
+			"alias": "LibNine",
+			"fileID": 3509087,
+			"projectID": 322344,
+			"required": true
+		},
+		{
+			"alias": "The One Probe",
+			"fileID": 2667280,
+			"projectID": 245211,
+			"required": true
+		},
+		{
+			"alias": "Rockhounding Mod: Core",
+			"fileID": 3287602,
+			"projectID": 271298,
+			"required": true
+		},
+		{
+			"alias": "Rockhounding Mod: Chemistry",
+			"fileID": 3466866,
+			"projectID": 251974,
+			"required": true
+		},
+		{
+			"alias": "Guidebook",
+			"fileID": 2727861,
+			"projectID": 253874,
+			"required": true
+		},
+		{
+			"alias": "Bookshelf",
+			"fileID": 2836960,
+			"projectID": 228525,
+			"required": true
+		},
+		{
+			"alias": "Rockhounding Mod: Surface",
+			"fileID": 3144377,
+			"projectID": 256072,
+			"required": true
+		},
+		{
+			"alias": "Grimoire of Gaia",
+			"fileID": 2891787,
+			"projectID": 228948,
+			"required": true
+		},
+		{
+			"alias": "Custom Main Menu",
+			"fileID": 2857869,
+			"projectID": 226406,
+			"required": true
+		},
+		{
+			"alias": "Custom Loading Screen",
+			"fileID": 3486258,
+			"projectID": 229302,
+			"required": true
+		},
+		{
+			"alias": "Tips",
+			"fileID": 2906537,
+			"projectID": 306549,
+			"required": true
+		},
+		{
+			"alias": "Trinity",
+			"fileID": 3250277,
+			"projectID": 354949,
+			"required": true
+		},
+		{
+			"alias": "flans mod",
+			"fileID": 3278090,
+			"projectID": 317310,
+			"required": true
+		},
+		{
+			"alias": "Steves Bizarre Adventure",
+			"fileID": 3021063,
+			"projectID": 308495,
+			"required": true
+		}
+	],
+	"overrides": "overrides"
 }
